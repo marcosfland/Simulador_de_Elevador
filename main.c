@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <locale.h>
 
 #define NUM_ANDARES 10
 
@@ -43,7 +42,6 @@ void mover_elevador(Elevador *elevador, int andar_destino) {
 }
 
 int main() {
-    setlocale(LC_ALL, "Portuguese");
     Elevador elevador;
     inicializar_elevador(&elevador);
 
