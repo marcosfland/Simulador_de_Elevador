@@ -1,2 +1,2 @@
 # Simulador_de_Elevador
- Esse é um pequeno código que simula um elevador
+ Esse é um pequeno código que simula um elevador. Ele simula a quantidade de pessoas no elevador, se ele está cheio ou não, se ele está em movimento ou não, e também a quantidade de andares do prédio.
